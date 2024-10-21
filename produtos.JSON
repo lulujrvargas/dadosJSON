@@ -1,0 +1,30 @@
+  [
+  {
+        "nome": "Calça jeans",
+        "tamanho": 55,
+        "preço": 220.20,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Tênis",
+        "tamanho":43,
+        "preço": 350.00,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Camiseta",
+        "tamanho":"G",
+        "preço": 100.00,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Tênis",
+        "tamanho":43,
+        "preço": 350.00,
+        "imagem": "img/teste.jpg"
+    },
+
+
+    
+    
+  ]
